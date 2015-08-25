@@ -1,0 +1,49 @@
+body{text-align:center;width:1024px;margin-left:auto;margin-right:auto;}
+#logo{background-color:#165890;height:50px;}
+#logo{font-size:25px;color:#FFF;padding:5px 0 0 30px;text-align:left;}
+#logo a:link {color:#FFF;}
+#logo a:visited {color:#FFF;text-decoration:none;}
+#logo a:hover {color:#FFF; text-decoration:none;}
+
+li.focus{background:#165890; color:#FFF;}
+li.focus a:link {color:#FFF;}
+#menu{border:solid 2px gray;height:50px;}
+#menu li{float:left;list-style-type:none;padding:2px;cursor:pointer;}
+#admin{text-align:right;padding:5px;font-size:12px;}
+.hide{display:none;}
+li.toshow{clear:both;cursor:pointer;}
+#footer{clear:both;border-top:2px solid gray;}
+
+#company{position:absolute;left:200px;}
+#finance{position:absolute;left:400px;}
+#ip{position:absolute;left:600px;}
+#realestate{position:absolute;left:800px;}
+li.item{width:200px;}
+li.item li{margin:2px 25px; 2px 2px;text-align:center;}
+
+#first{float:left;}
+#first{width:250px;border-right:2px solid gray;}
+#first ul{list-style-type:none;}
+
+#login{ margin:20px;}
+#login ul{list-style-type:none;}
+#login li{line-height:200%;}
+
+#nav{float:left;}
+#nav ul{list-style-type:none;}
+#nav li{line-height:200%;}
+#nav ul.subnav li{font-size:14px;}
+#nav ul.subnav li a:link {color:#165890;text-decoration:none;}
+#nav ul.subnav li a:hover {color:blue;text-decoration:underline;font-weight:bold;}
+#nav ul.subnav li a:visited {color:gray;text-decoration:none;}
+
+a.highlight:link {font-weight:bold;}
+li.toshow a:link {text-decoration:none;}
+li.toshow a:hover {text-decoration:underline;}
+li.toshow a:visited {color:#FFF; text-decoration:underline;}
+
+#subcont{margin-left:500px;padding:20px; }
+#subcont span{color:red;font-weight:bold;}
+
+
+#subcont #AuthorAddForm{line-height:200%;text-align:left;}
